@@ -6,4 +6,6 @@ of a few seconds.
 "NMaws.py" is used to automate the creation of an AWS s3 bucket as well as storing the files saved using the above two scripts into the 
 newly created s3 bucket.
 
+Check out the png file posted on this repository for help creating the network.
+
 For more information: saki8093@colorado.edu
